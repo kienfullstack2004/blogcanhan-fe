@@ -1,0 +1,6 @@
+export const actionType = {
+    'LOGIN_SUCCESS':'LOGIN_SUCESS',
+    'LOGIN_FAIL':'LOGIN_FAIL',
+    'REGISTER_SUCESS':'REGISTER_SUCESS',
+    'REGISTER_FAIL':'REGISTER_FAIL',
+}
